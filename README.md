@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://vetri-suriya.web.app/devchallenges/interior-consultant/">Preview Website</a>
+    <a href="https://rvs-interior-design.onrender.com/">Preview Website</a>
   </h3>
 </div>
 
